@@ -16,23 +16,6 @@ This project focuses on designing and developing an AI-driven road traffic estim
 - 
 - **Web System Integration**: Data is posted to a web system with two user roles: Normal User and Traffic Officer.
 
-## User Roles
-
-### Normal User
-
-- View traffic density data.
-- Estimate distance to their destination.
-- Check rerouting options.
-- Receive notifications about traffic conditions.
-
-### Traffic Officer
-
-- Monitor raw data from cameras.
-- View processed data.
-- Send notifications to road users.
-- Access graphical presentations of data.
-- Respond to alarms and incidents.
-
 
 ## User Roles
 
@@ -71,7 +54,7 @@ The Smartcity Traffic Officer (STO) project aims to leverage AI and machine lear
 
 - TensorFlow/Keras (for training and deploying YOLO models)
 - OpenCV (for video processing)
-- Flask (for backend development)
+- Flask/Django (for backend development)
 - React (for frontend development)
 
 ### External AI Models
