@@ -72,8 +72,8 @@ The Smartcity Traffic Officer (STO) project aims to leverage AI and machine lear
 
 ## Team
 
-- **Team Captain**: Godwin S. Aruga
-- **Team Members**: Godwin S. Aruga, David Marandu, Zephania James, Dinales Mdollo
+- **Team**: Godwin S. Aruga
+
 
 ## Usage
 
